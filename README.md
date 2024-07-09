@@ -1,5 +1,24 @@
-# GCI
-<p>ここでは<a href="https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2024-summer" target="_blank">GCI(Global Consumer Intelligence)</a>で行ったコンペティションを記録しています</p>
+# 東京大学グローバル消費インテリジェンス寄附講座
+<p>ここでは<a href="https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2024-summer" target="_blank">GCI2024SUMMER</a>で行ったコンペティションを記録しています</p>
 
-##### <section>コンペ一回目</section>
-<article>コンペ一回目はタイタニック生存率の予測です。</article>
+### 講座について
+<p>
+
+参加人数  
+期間
+内容
+</p>
+
+### コンペティションの結果
+| 題目 | コンペ内容 | 最高スコア | コメント |
+|-------------------------------|------------|--------|---|----------------------------------|
+| 第1回 Titanic                 |  |　0.763 |初めてのコンペティション。コンペを知れる良い機会になりました。 |
+| 第2回 Home Credit Default Risk| | 0.7628 | 78 |  |
+| 第3回                         | |----   | -- | ------ |
+
+### 活動を振り返り
+
+##### 自分の成長
+
+##### 感想
+
