@@ -1,5 +1,9 @@
-# 東京大学グローバル消費インテリジェンス寄附講座
-<p>ここでは<a href="https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2024-summer" target="_blank">GCI2024SUMMER</a>で行ったコンペティションを記録しています</p>
+<div align ="center">
+ 
+ ![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=東京大学グローバル消費インテリジェンス寄附講座&fontSize=33&desc=GCI&descSize=30&descAlignY=70)
+ </div>
+
+<h1 align="center">ここでは<a href="https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2024-summer" target="_blank">GCI2024SUMMER</a>で行ったコンペについて記録しています</h1>
 
 ### 講座について
 - 東京大学の松尾研究室が主催するデータサイエンティストを育成する講座
