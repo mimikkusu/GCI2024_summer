@@ -1,5 +1,9 @@
-# 東京大学グローバル消費インテリジェンス寄附講座
-<p>ここでは<a href="https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2024-summer" target="_blank">GCI2024SUMMER</a>で行ったコンペティションを記録しています</p>
+<div align ="center">
+ 
+ ![header](https://capsule-render.vercel.app/api?type=rounded&height=300&color=gradient&text=東京大学グローバル消費インテリジェンス寄附講座&fontSize=33&desc=GCI&descSize=30&descAlignY=70)
+ </div>
+
+<h1 align="center">ここでは<a href="https://gci2.t.u-tokyo.ac.jp/archives/course/gci-2024-summer" target="_blank">GCI2024SUMMER</a>で行ったコンペについて記録しています</h1>
 
 ### 講座について
 - 東京大学の松尾研究室が主催するデータサイエンティストを育成する講座
@@ -10,9 +14,9 @@
 ### コンペティションの結果
 | 題目 | コンペ内容 | 最高スコア|　順位　| コメント |
 |-------------------------------|---------------------------------------------------------------------------------------------|------|--|-------------------------------------------------------------|
-| 第1回 Titanic                 |Titanic号の乗客に関する様々な情報から、その乗客が最終的に亡くなったかどうかをできるだけ正しく予測|0.763 |1032/1752|初めてのコンペティション。コンペを知れる良い機会になりました。 |
-| 第2回 Home Credit Default Risk|顧客のデータからその顧客が債務不履行(default)になる確率を予測                                  |0.7628|??|タイタニックコンペの経験が生きたと思います。                 |
-| 第3回 最終課題   　　　　　   |---------------------------------------------------------------------------------------------|------|??| ------------------------------------------------------------ |
+| 第1回 [Titanic](https://github.com/mimikkusu/GCI2024_summer/tree/master/Titanic)             |Titanic号の乗客に関する様々な情報から、その乗客が最終的に亡くなったかどうかをできるだけ正しく予測|0.763 |1032/1752|初めてのコンペティション。コンペを知れる良い機会になりました。 |
+| 第2回 [Home Credit Default Risk](https://github.com/mimikkusu/GCI2024_summer/tree/master/Home_Credit_Default_Risk)|顧客のデータからその顧客が債務不履行(default)になる確率を予測                                  |0.7628|??|タイタニックコンペの経験が生きたと思います。                 |
+| 第3回 最終課題 |kaggleで提供されている[アイ・ビー・エム株式会社についての資料](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)を基に事業提案|---------|-----------| ------------------------------------------------------------ |
 
 ### 活動を振り返り
 #### 自分の成長
