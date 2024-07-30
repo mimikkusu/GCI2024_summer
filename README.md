@@ -15,8 +15,8 @@
 | 題目 | コンペ内容 | 最高スコア|　順位　| コメント |
 |-------------------------------|---------------------------------------------------------------------------------------------|------|--|-------------------------------------------------------------|
 | 第1回 [Titanic](https://github.com/mimikkusu/GCI2024_summer/tree/master/Titanic)             |Titanic号の乗客に関する様々な情報から、その乗客が最終的に亡くなったかどうかをできるだけ正しく予測|0.763 |1032/1752|初めてのコンペティション。コンペを知れる良い機会になりました。 |
-| 第2回 [Home Credit Default Risk](https://github.com/mimikkusu/GCI2024_summer/tree/master/Home_Credit_Default_Risk)|顧客のデータからその顧客が債務不履行(default)になる確率を予測                                  |0.7628|??|タイタニックコンペの経験が生きたと思います。                 |
-| 第3回 最終課題 |kaggleで提供されている[アイ・ビー・エム株式会社についての資料](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)を基に事業提案|---------|-----------| ------------------------------------------------------------ |
+| 第2回 [Home Credit Default Risk](https://github.com/mimikkusu/GCI2024_summer/tree/master/Home_Credit_Default_Risk)|顧客のデータからその顧客が債務不履行(default)になる確率を予測                                  |0.75793|??|タイタニックコンペの経験が生きたと思います。                 |
+| 第3回 [最終課題](https://github.com/mimikkusu/GCI2024_summer/tree/master/IBM) |kaggleで提供されている[アイ・ビー・エム株式会社についての資料](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)を基に事業提案|---------|-----------| 最終課題は本当に難しかったです。ただコーディングができるだけではダメで、そこにどれだけ市場分析したかとか、説明性を持って説明できたかとか、発案から、検証まですべて難しかった。新しい事業を提案するという事がどういう事なのかよく知ることが出来た。 |
 
 ### 活動を振り返り
 #### 自分の成長
